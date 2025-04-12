@@ -1,4 +1,4 @@
-# お天気アプリ(C# Windows Forms版)
+# お天気アプリ(C#版)
 OpenWeatherMap API を利用してリアルタイムの天気情報を取得し、表示するお天気アプリのC# WinForms版になります。
 
 ![スクショ](Screenshot.png)
