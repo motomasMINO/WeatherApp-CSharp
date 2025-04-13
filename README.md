@@ -12,7 +12,7 @@ OpenWeatherMap API を利用してリアルタイムの天気情報を取得し�
 - **日本語表示対応**
 
 ## 🛠️ 使用技術
-- **C#(.NET Framework/.NET 6+)**
+- **C#(.NET Framework / .NET 6+)**
 - **Windows Forms**
 - **OpenWeatherMap**
 - **Newtonsoft.Json**
