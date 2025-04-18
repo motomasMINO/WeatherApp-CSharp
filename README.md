@@ -38,7 +38,9 @@ cd WeatherApp-Csharp
 ```
 3.実行(アプリを起動)
 ```sh
-dotnet run --project WeatherApp
+cd WeatherApp
+
+dotnet run
 ```
 ## 📜 ライセンス
 このプロジェクトはMIT Licenseのもとで公開されています。
